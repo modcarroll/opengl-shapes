@@ -6,7 +6,7 @@ Compile: `g++ s1-mlanglais.cpp -framework OpenGL -framework GLUT -o s1`
 
 Run: `./s1`
 
-Press 't' for triangle, 'p' for point, 's' for square, 'u' for cube, 'h' for hexagon, 'c' for circle, 'l' for line, and 'q' to quit.
+Press 't' or 'T' for triangle, 'p' for point, 's' for square, 'u' for cube, 'h' for hexagon, 'c' for circle, 'l' for line, and 'q' to quit.
 
 ### Screenshots
 ![Intro](images/intro.png)
